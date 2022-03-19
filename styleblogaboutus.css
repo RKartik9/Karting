@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(17, 17, 17);
+}
+p{
+    color: rgb(15, 157, 223);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.text-muted{
+    color: chartreuse;
+}
+.head{
+    color: rgb(255, 138, 4);
+}

@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+h2{
+    color: rgb(13, 240, 240);
+}
+label{color: aqua;}
+section{
+    background-color: rgb(245, 241, 241);
+}
+p{
+    color: aqua;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
